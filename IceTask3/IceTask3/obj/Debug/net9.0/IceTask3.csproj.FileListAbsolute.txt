@@ -1,0 +1,14 @@
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.AssemblyInfoInputs.cache
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.AssemblyInfo.cs
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.csproj.CoreCompileInputs.cache
+C:\Users\tiash\source\repos\IceTask3\IceTask3\bin\Debug\net9.0\IceTask3.exe
+C:\Users\tiash\source\repos\IceTask3\IceTask3\bin\Debug\net9.0\IceTask3.deps.json
+C:\Users\tiash\source\repos\IceTask3\IceTask3\bin\Debug\net9.0\IceTask3.runtimeconfig.json
+C:\Users\tiash\source\repos\IceTask3\IceTask3\bin\Debug\net9.0\IceTask3.dll
+C:\Users\tiash\source\repos\IceTask3\IceTask3\bin\Debug\net9.0\IceTask3.pdb
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.dll
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\refint\IceTask3.dll
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.pdb
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\IceTask3.genruntimeconfig.cache
+C:\Users\tiash\source\repos\IceTask3\IceTask3\obj\Debug\net9.0\ref\IceTask3.dll
